@@ -1,5 +1,4 @@
 # Portfolio
-Portfolio Overview:
 
 Affine Cipher Project - An exploration of encryption and decryption mechanisms using the Affine Cipher, highlighting cryptographic skills and mathematical problem-solving.
 
@@ -10,7 +9,7 @@ Application Penetration Testing - Detailed penetration testing of web applicatio
 Malware Analysis - A thorough analysis of various malware types, utilizing both static and dynamic techniques to understand and mitigate threats.
 
 
-Technical Skills:
+# Technical Skills:
 
 Languages: Python, C
 
